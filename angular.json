@@ -31,7 +31,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/video.js/dist/video-js.css",
+              "src/app/shared/rangeslider.css"
             ],
             "scripts": []
           },
